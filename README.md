@@ -1,3 +1,3 @@
-# meme-gallery
+# calculator
 
-An interactive image gallery built with HTML, CSS, and JavaScript.
+An interactive calculator built with HTML, CSS, and JavaScript.
